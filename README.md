@@ -35,20 +35,13 @@ I'm a passionate developer from [Kolkata, India]. Currently exploring software d
 <img width="374" height="207" alt="image" src="https://github.com/user-attachments/assets/86147f6f-07ef-44ff-80de-1db1b8210786" />
 
 
-
-
-## 📈 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rahulsaha6917-del&theme=react-dark)
-
-
-
 ## 📁 My Repositories
 Here's a glimpse of my projects:
 
 | Repository | Description | Language | Stars | Forks |
 |------------|-------------|----------|-------|-------|
-| [rahulsaha6917-del](https://github.com/hello-im-bishal) | My details and Education | - | 0 | 0 |
-https://github.com/hello-im-bishal/GET | Gym Management Application - Taskform, Tasklist & ProgressTracker Component | ReactJs
+| [bishalsaha6917-del](https://github.com/hello-im-bishal) | My details and Education | - | 0 | 0 |
+https://github.com/hello-im-bishal/Task-Hive/GET | Task-Hive Application - Taskform, Tasklist & ProgressTracker Component | ReactJs
 
 
 <img width="890" height="247" alt="image" src="https://github.com/user-attachments/assets/081890b9-dcb8-447e-a763-f0d36e90bd7c" />
