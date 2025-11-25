@@ -11,7 +11,7 @@ I'm a passionate developer from [Kolkata, India]. Currently exploring software d
 
 ## 🚀 About Me
 - 🎓 **Education**: [B.Tech in Electronics and Communication Engineering from MAKAUT University]
-- 💼 **Experience**: Kodnest Technologies Private Limited
+- 💼 **Internship**: Kodnest Technologies Private Limited
 - 🌍 **Location**: [Kolkata/India]
 - 📧 **Email**: bishal2003sahagmail.com || thebishal999@gmail.com
 - 🔗 **Portfolio**: [Comming Soon]
